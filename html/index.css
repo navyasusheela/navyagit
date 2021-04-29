@@ -1,0 +1,14 @@
+body {
+  background-color: #87ceeb;
+}
+.baba3 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: indigo;
+}
+.bab2 {
+  background-color: rgba(0, 24, 102, 0.7);
+  border-style: solid dotted dashed outset;
+  border-width: 2px;
+  border-color: lawngreen;
+}
